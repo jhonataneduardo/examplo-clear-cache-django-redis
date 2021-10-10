@@ -1,0 +1,1 @@
+# Deletar caches em ações de "delete", "create" e "update".
